@@ -7,7 +7,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the eternal glory of The League! In this dynasty league opinions will be challenged, embarrassment will be earned, and a champions will be crowned.</p>
-  <p>The Startup draft saw many differenet strategies with some owners shooting for a first year title, others seeking to build a team of future superstars, and also Noah Gray being drafted in the ninth round. It remains to be seen who will come out on top, but one thing is certain -- it is going to be hilarious.</p>
+  <p>The startup draft saw many differenet strategies with some owners shooting for a first year title, others seeking to build a team of future superstars, and also Noah Gray being drafted in the ninth round. It remains to be seen who will come out on top, but one thing is certain -- it is going to be hilarious. Who will show themselves as a true fantasy champion and triumph this first season? What decisions will be made that lead to the loser running a 5K in a fairy costume? Is Andrew Luck really, really going to come back and play football? Only time will tell.On</p>
 `;
 
 /*   STEP 3   */
